@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	background: url(http://pre07.deviantart.net/b782/th/pre/f/2014/330/f/c/flat_pattern_quilts_wallpaper_3_by_microfreaks-d87ppad.png) 100% 100% no-repeat fixed;
-  font: 18px/1.4 $helvetica;
+	background: url(http://pre07.deviantart.net/b782/th/pre/f/2014/330/f/c/flat_pattern_quilts_wallpaper_3_by_microfreaks-d87ppad.png) no-repeat fixed;
+	background-size: 100% 100%;
+	font: 18px/1.4 $helvetica;
   color: $white;
 }
 
@@ -32,7 +33,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #DDDDDD;
+  color: #FFFFFF;
   font-weight: bold;
 
   line-height: 1.7;
