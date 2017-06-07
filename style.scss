@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #DDDDDD;
+  color: #CCCCCC;
 }
 
 p {
@@ -193,7 +193,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #FFFFFF;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -203,7 +203,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #CCCCCC;
   font-size: 16px;
 
   @include mobile {
